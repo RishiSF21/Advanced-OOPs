@@ -1,0 +1,5 @@
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 3 Assignments\AssemblyReference\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 3 Assignments\AssemblyReference\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 3 Assignments\AssemblyReference\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 3 Assignments\AssemblyReference\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\RishiswaminathanPadm\OneDrive - Syncfusion\Desktop\Phase 3 Assignments\AssemblyReference\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
